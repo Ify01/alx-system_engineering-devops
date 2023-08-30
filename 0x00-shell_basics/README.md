@@ -1,1 +1,1 @@
-1)0-current_working_directory - Print Working Directory(pwd) 2) 1-listit list of your current directory 3) the working directory to the user’s home directory 4) contents in a long format
+0-Print Working Directory(pwd) 1-list of your current directory 2-the working directory to the user’s home directory 3-contents in a long format 4-including hidden files (starting with .). Use the long format.

@@ -1,1 +1,1 @@
-1-Print Working Directory(pwd) 2-list of your current directory 3-the working directory to the user’s home directory 4-contents in a long format 5-Display current directory contents: long, number and hidden
+1-Print Working Directory(pwd) 2-list of your current directory 3-the working directory to the user’s home directory 4-contents in a long format 5-Display current directory contents: long, number and hidden 6-directory named my_first_directory in the /tmp/ directory.

@@ -1,1 +1,1 @@
-0-Betty user 1-current user username 2-user groups 3-new owner 4-empty file 
+0-Betty user 1-current user username 2-user groups 3-new owner 4-empty file 5-execute permission

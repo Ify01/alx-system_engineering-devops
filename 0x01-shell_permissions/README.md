@@ -1,1 +1,1 @@
-0-Betty user 1-current user username 2-user groups 3-new owner 4-empty file 5-execute permission 6-multiple permissions 7-every user 8-james bond 9-john doe 10-mirror permissions 11-directories permissions 12-directory permissions 13-change group 14-change owner and group
+0-Betty user 1-current user username 2-user groups 3-new owner 4-empty file 5-execute permission 6-multiple permissions 7-every user 8-james bond 9-john doe 10-mirror permissions 11-directories permissions 12-directory permissions 13-change group 14-change owner and group 15-symbolic link permissions

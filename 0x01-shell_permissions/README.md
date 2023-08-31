@@ -1,1 +1,1 @@
-1-Betty user 2-current user username 3-user groups 4-new owner
+0-Betty user 1-current user username 2-user groups 3-new owner 4-empty file 
